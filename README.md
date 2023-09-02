@@ -18,7 +18,7 @@ What challenges did you face and how did you overcome them?
 It was difficult to reveal numbers or bomb under a hidden box. I used display: none and display: block to do this.
 
 
-## Authors
+## Author
 
 - [@LidwinePrior](https://github.com/LidwinePrior)
 
