@@ -3,7 +3,7 @@
 
     Create a Minesweeper with some hiddens boxes.
 
-    [Minesweeper](https://lidwineprior.github.io/Minesweeper)
+    [Minesweeper](https://lidwineprior.github.io/Minesweeper/)
 
 
 
